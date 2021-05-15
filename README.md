@@ -1,4 +1,4 @@
-# BankNote_Authentication-Deploy
+# BankNote_Authentication-Docker
 Deploying the Machine Learning Project - BankNote_Autentication
 
 You can easily make Image in Docker
